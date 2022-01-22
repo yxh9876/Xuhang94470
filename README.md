@@ -12,7 +12,7 @@ I am a second year MISM-BIDA student. I am really interested in various aspects 
 
 # What I hope to learn
 I hope to learn some theoratical knowledge about data visualization, especially how to make my visualization clearer and more persuasive. Also, I hope to gain some hands-on experience from the assignments of this course.  
-After graduation, I'll be working at the headquater of a commercial bank.
+After graduation, I'll be working at the headquater of a commercial bank called ICBC in China. (https://en.wikipedia.org/wiki/Industrial_and_Commercial_Bank_of_China)
 
 
 # Portfolio

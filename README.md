@@ -7,18 +7,20 @@ https://yxh9876.github.io/Xuhang94470/
 
 # About me
 My name is Xuhang Yang, and it pronounces like "Shyu-hang Yang". My gender pronoun is he/him/his.  
-I am a second year MISM-BIDA student. I am really interested in various aspects of data science, including data visualization.
+I am a second year MISM-BIDA student. I am really interested in various aspects of data science, including data visualization. I have taken a few courses about data manipulation, machine learning, etc. And I think what I really need now is a data visualization course, just like 94470.
 
 
 # What I hope to learn
-I hope to learn some theoratical knowledge about data visualization, especially how to make my visualization more clear and persuasive. Also, I hope to gain some hands-on experience through our assignments.  
-After graduation, I'll be working at the headquater of a commercial bank. 
+I hope to learn some theoratical knowledge about data visualization, especially how to make my visualization clearer and more persuasive. Also, I hope to gain some hands-on experience from the assignments of this course.  
+After graduation, I'll be working at the headquater of a commercial bank.
 
 
 # Portfolio
 
 
 ## Assignment 1
+
+## Assignment 2
 
 
 ## Final Project

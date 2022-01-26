@@ -16,6 +16,8 @@ After graduation, I'll be working at the headquater of a commercial bank called 
 
 # Portfolio
 
+##demo
+<div class="flourish-embed flourish-chart" data-src="visualisation/8529844"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Assignment 1
 

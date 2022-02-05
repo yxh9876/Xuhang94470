@@ -6,6 +6,9 @@ I am choosing this chart. I looked through several articles and this visualizati
 # Step 3
 
 sketch: bar+bar line+line bar+line
+![image](https://github.com/yxh9876/Xuhang94470/blob/main/sketch.png)
+
+
 
 # Step 4
 ## First Interviewee

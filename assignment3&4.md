@@ -6,3 +6,14 @@ I am choosing this chart. I looked through several articles and this visualizati
 # Step 3
 
 sketch: bar+bar line+line bar+line
+
+# Step 4
+- Can you tell me what you think this is?
+
+- Can you describe to me what this is telling you?
+
+- Is there anything you find surprising or confusing?
+
+- Who do you think is the intended audience for this?
+
+- Which one do you prefer? Is there anything you would change or do differently?

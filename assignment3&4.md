@@ -14,18 +14,18 @@ The interviewee first asked what is IC3, and then interpreted #complaints and lo
 
 I explained to her what the data really meant, which took quite a few questions. This suggests that this plot depends a lot on the original report.
 
-
-
-
 - Can you describe to me what this is telling you?
-The interviewee could see that the number of complaints and losses were increasing every year.
+The interviewee could see that the number of complaints IC3 received and losses were increasing every year.
 
 
 - Is there anything you find surprising or confusing?
+2 y-axis in the same plot is quite surprising to her. The interviewee first wondered why I used line chart for losses and bar chart for complaints, but then thought it made sense, because one is above the other. This design is better than using line chart for both data or using bar chart for both data.
 
 - Who do you think is the intended audience for this?
+The department in charge of internet crimes.
 
 - Which one do you prefer? Is there anything you would change or do differently?
+If there is some kind of correlation or other relationship, the first design is better. Otherwise, the second design is better. She said that she definitely prefer the first design. The first sketch is good-looking and there is nothing she wanted to add to it.
 
 ## Second Interviewee
 - Can you tell me what you think this is?

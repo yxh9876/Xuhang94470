@@ -71,7 +71,13 @@ Maybe to any high level officials that were in charge of this issue.
 The interviewee said that the second one is a little hard to read because you have to go back and forth between two plots, while the first one is easier to read. In the first sketch, he was not sure about the relationship between the line char and the bar chart, saying that he needed more information to judge.
 
 ## Summary: similarities and differences
-There are xxx problems:
+
+Both of them mentioned that the plot is hard to understand at the first glance. Without the help of the report context, readers couldn't understand the meaning of IC3, complaints and losses. After I explained to them what they are, they could understand the plot and its implication.
+
+Both mentioned that the combination of a line chart and a bar chart is quite innovative, which they don't often see. One of the interviewee said it was beautiful, the other said it was a little surprising. But they both loved this design overall.
+
+## What to change heading into step five
+
 1. Move legends information into the graph rather than put it on the right side.
 2. Alter the phrasing of title and legend so that the plot can be understood without the context of the report.
 

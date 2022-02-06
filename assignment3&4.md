@@ -4,7 +4,9 @@ IC3 Complaint Statistics 2014-2018
 from the report "2018 INTERNET CRIME REPORT"
 https://www.ic3.gov/Media/PDF/AnnualReport/2018_IC3Report.pdf
 
-## The reason 
+![image](/original.png)
+
+## Reasons why I chose it
 
 I am choosing this chart. I looked through several articles and this visualization cauught my attention suddenly, There is a globe in the background. Apparently, the author wanted to create something special. However, after analyzing it carefully, I realized that there are big problems about this visualization, so I chose this one.
 
@@ -14,13 +16,15 @@ This method is a more comprehensive one compared to the good charts method. This
 
 After doing this critique, I realized that the chart is showing very useful data to the report readers, but the problem is that there are too much unuseful visual elements in the chart, like the globe in the background and the arrow on the top. Less is more. In my redesign, I am going to eliminate those elements and show only what is necessary to convey the information to the audience.
 
-# Step 3
+# Step three: wireframe a solution
+## Sketch
 
+In order to I redesigned two versions. The first one is a combination of a line chart and a bar chart, while the second one is a concatenation of two bar charts. I personally prefer the first one, but I still need opnions from others in the interview, which I'll do in step 4.
 ![image](/sketch.png)
 
 
 
-# Step 4
+# Step four: Test the solution
 ## First Interviewee
 - Can you tell me what you think this is?
 
@@ -58,3 +62,6 @@ If there is some kind of correlation or other relationship, the first design is 
 
 
 ## Summary: similarities and differences
+
+# Step five: Build your solution
+

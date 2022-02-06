@@ -51,17 +51,25 @@ If there is some kind of correlation or other relationship, the first design is 
 
 ## Second Interviewee
 - Can you tell me what you think this is?
+The interviewee first asked what is IC3. After I explained to him, he said that this is a histogram that shows that complaints and losses are increasing.
 
 - Can you describe to me what this is telling you?
+He thought that IC3 was almost done, because misunderstood that the data was complaints about the IC3 and their losses. So, I had to tell him the real meaning of the data to keep our conversation going on.
 
 - Is there anything you find surprising or confusing?
 
+
 - Who do you think is the intended audience for this?
+Maybe to any high level officials that were in charge of this issue.
 
 - Which one do you prefer? Is there anything you would change or do differently?
-
+The interviewee said that the second one is a little hard to read because you have to go back and forth between two plots, while the first one is easier to read.
 
 ## Summary: similarities and differences
+There are xxx problems:
+1. move legends information into
+
+
 
 # Step five: Build your solution
 

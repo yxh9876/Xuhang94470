@@ -29,7 +29,7 @@ In order to I redesigned two versions. The first one is a combination of a line 
 
 The interviewee first asked what is IC3, and then interpreted #complaints and losses as the complaints it received and the losses of IC3. Without the context of the original report, the interviewee misunderstood the title and the data. 
 
-I explained to her what the data really meant, which took quite a few questions. This suggests that this plot depends a lot on the original report.
+I explained to her what the data really meant, which took quite a few time. This suggests that this plot depends a lot on the original report.
 
 - Can you describe to me what this is telling you?
 
@@ -42,11 +42,11 @@ The interviewee could see that the number of complaints IC3 received and losses 
 
 - Who do you think is the intended audience for this?
 
-The department in charge of internet crimes.
+"The department in charge of internet crimes."
 
 - Which one do you prefer? Is there anything you would change or do differently?
 
-If there is some kind of correlation or other relationship, the first design is better. Otherwise, the second design is better. She said that she definitely prefer the first design. The first sketch is good-looking and there is nothing she wanted to add to it.
+"If there is some kind of correlation or other relationship, the first design is better. Otherwise, the second design is better." She said that she definitely prefer the first design. The first sketch is good-looking and there is nothing she wanted to add to it.
 
 ## Second Interviewee
 - Can you tell me what you think this is?
@@ -55,7 +55,7 @@ The interviewee first asked what is IC3. After I explained to him, he said that 
 
 - Can you describe to me what this is telling you?
 
-He thought that IC3 was almost done, because misunderstood that the data was complaints about the IC3 and their losses. So, I had to tell him the real meaning of the data to keep our conversation going on.
+He thought that IC3 was almost done, because he misunderstood that the data was complaints about the IC3 and their losses. So, I had to tell him the real meaning of the data to keep our conversation going on.
 
 - Is there anything you find surprising or confusing?
 
@@ -63,7 +63,7 @@ For the first sketch, he was confused about the relationship between complaints 
 
 - Who do you think is the intended audience for this?
 
-Maybe to any high level officials that were in charge of this issue.
+"Maybe to any high level officials that were in charge of this issue."
 
 - Which one do you prefer? Is there anything you would change or do differently?
 
@@ -73,7 +73,7 @@ The interviewee said that the second one is a little hard to read because you ha
 
 Both of them mentioned that the plot is hard to understand at the first glance. Without the help of the report context, readers couldn't understand the meaning of IC3, complaints and losses. After I explained to them what they are, they could understand the plot and its implication.
 
-Both mentioned that the combination of a line chart and a bar chart is quite innovative, which they don't often see. One of the interviewee said it was beautiful, the other said it was a little surprising. But they both loved this design overall.
+Both mentioned that the combination of a line chart and a bar chart is quite innovative, which they don't often see. One of the interviewee said it was beautiful, the other said it was a little surprising. But they both liked this design overall.
 
 ## What to change heading into step five
 

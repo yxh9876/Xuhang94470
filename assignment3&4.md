@@ -14,7 +14,7 @@ I am choosing this chart. I looked through several articles and this visualizati
 ## How does this method compare to the Good Charts method? 
 This method is a more comprehensive one compared to the good charts method. This method consists of both informative and emotive aspects. The Good Charts method focuses more on the visual aspect of a chart, and it does involve more detailed questinons about the visual aspect of a chart. However, this method also focus on the information aspect of a chart, for instance, usefulness and completeness of the data.
 
-After doing this critique, I realized that the chart is showing very useful data to the report readers, but the problem is that there are too much unuseful visual elements in the chart, like the globe in the background and the arrow on the top. Less is more. In my redesign, I am going to eliminate those elements and show only what is necessary to convey the information to the audience.
+After doing this critique, I realized that the chart is showing very useful data to the report readers, but the problem is that there are too much unuseful visual elements in the chart, like the globe in the background and the arrow on the top. Less is more. In my redesign, I am going to eliminate those elements and show only what is necessary to convey the information to the audience. Besides, the figures in the graph are still hard to read, since we can't easily see the trend from a plot like this. The visualization didn't help at all. 
 
 # Step three: wireframe a solution
 ## Sketch

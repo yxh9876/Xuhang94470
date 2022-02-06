@@ -2,6 +2,7 @@
 ## The chart I chose
 IC3 Complaint Statistics 2014-2018 
 from the report "2018 INTERNET CRIME REPORT"
+
 https://www.ic3.gov/Media/PDF/AnnualReport/2018_IC3Report.pdf
 
 ![image](/original.png)
@@ -84,3 +85,13 @@ Both mentioned that the combination of a line chart and a bar chart is quite inn
 
 # Step five: Build your solution
 I completed the visualization with Tableau.
+
+<div class='tableauPlaceholder' id='viz1644177681717' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='assignment34_16441776035710&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1644177681717');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>

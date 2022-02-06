@@ -7,7 +7,7 @@ from the report ["2018 INTERNET CRIME REPORT"](https://www.ic3.gov/Media/PDF/Ann
 
 ## Reasons why I chose it
 
-I am choosing this chart. I looked through several articles and this visualization cauught my attention suddenly, There is a globe in the background. Apparently, the author wanted to create something special. However, after analyzing it carefully, I realized that there are big problems about this visualization, so I chose this one.
+I am choosing this chart because I looked through several articles and this visualization cauught my attention suddenly. There is a globe in the background. Apparently, the author wanted to create something special. However, after analyzing it carefully, I realized that there are big problems about this visualization that I want to change, so I chose this one.
 
 # Step two: critique the data visualization
 ## How does this method compare to the Good Charts method? 
@@ -80,7 +80,7 @@ Both mentioned that the combination of a line chart and a bar chart is quite inn
 Apart what I changed in the sketch (already mentioned above), I am making the following changes in the final visualization:
 1. Move legends information into the graph rather than put it on the right side so that the readers can tell which one is complaints and which one is losses more easily.
 2. Alter the phrasing of title and legend so that the plot can be understood without the context of the report. The title will be "FBI's IC3 received increasing complaints of Internet crime". This tells the reader that IC3 is a part of FBI and their job is to receive crime reports.
-
+3. Adding proper colors to the chart.
 
 # Step five: Build your solution
 I completed the visualization with Tableau.

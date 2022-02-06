@@ -1,9 +1,7 @@
 # Step one: find a data visualization
 ## The chart I chose
 IC3 Complaint Statistics 2014-2018 
-from the report "2018 INTERNET CRIME REPORT"
-
-https://www.ic3.gov/Media/PDF/AnnualReport/2018_IC3Report.pdf
+from the report ["2018 INTERNET CRIME REPORT"](https://www.ic3.gov/Media/PDF/AnnualReport/2018_IC3Report.pdf)
 
 ![image](/original.png)
 

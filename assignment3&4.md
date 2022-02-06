@@ -77,8 +77,9 @@ Both mentioned that the combination of a line chart and a bar chart is quite inn
 
 ## What to change heading into step five
 
-1. Move legends information into the graph rather than put it on the right side.
-2. Alter the phrasing of title and legend so that the plot can be understood without the context of the report.
+Apart what I changed in the sketch (already mentioned above), I am making the following changes in the final visualization:
+1. Move legends information into the graph rather than put it on the right side so that the readers can tell which one is complaints and which one is losses more easily.
+2. Alter the phrasing of title and legend so that the plot can be understood without the context of the report. The title will be "FBI's IC3 received increasing complaints of Internet crime". This tells the reader that IC3 is a part of FBI and their job is to receive crime reports.
 
 
 # Step five: Build your solution

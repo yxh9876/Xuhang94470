@@ -7,7 +7,7 @@ from the report ["2018 INTERNET CRIME REPORT"](https://www.ic3.gov/Media/PDF/Ann
 
 ## Reasons why I chose it
 
-I am choosing this chart because I looked through several articles and this visualization cauught my attention suddenly. There is a globe in the background. Apparently, the author wanted to create something special. However, after analyzing it carefully, I realized that there are big problems about this visualization that I want to change, so I chose this one.
+I am choosing this chart because I looked through several articles and this visualization caught my attention suddenly. There is a globe in the background. Apparently, the author wanted to create something special. However, after analyzing it carefully, I realized that there are big problems about this visualization that I want to change, so I chose this one.
 
 # Step two: critique the data visualization
 ## How does this method compare to the Good Charts method? 

@@ -1,11 +1,21 @@
-# Step 1
-## hello
+# Step one: find a data visualization
+## The chart I chose
+IC3 Complaint Statistics 2014-2018 
+from the report "2018 INTERNET CRIME REPORT"
+https://www.ic3.gov/Media/PDF/AnnualReport/2018_IC3Report.pdf
+
+## The reason 
 
 I am choosing this chart. I looked through several articles and this visualization cauught my attention suddenly, There is a globe in the background. Apparently, the author wanted to create something special. However, after analyzing it carefully, I realized that there are big problems about this visualization, so I chose this one.
 
+# Step two: critique the data visualization
+## How does this method compare to the Good Charts method? 
+This method is a more comprehensive one compared to the good charts method. This method consists of both informative and emotive aspects. The Good Charts method focuses more on the visual aspect of a chart, and it does involve more detailed questinons about the visual aspect of a chart. However, this method also focus on the information aspect of a chart, for instance, usefulness and completeness of the data.
+
+After doing this critique, I realized that the chart is showing very useful data to the report readers, but the problem is that there are too much unuseful visual elements in the chart, like the globe in the background and the arrow on the top. Less is more. In my redesign, I am going to eliminate those elements and show only what is necessary to convey the information to the audience.
+
 # Step 3
 
-sketch: bar+bar line+line bar+line
 ![image](/sketch.png)
 
 

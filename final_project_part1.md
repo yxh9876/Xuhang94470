@@ -1,7 +1,8 @@
 
 # Outline
 ## High-level summary
-The United States and China started the trade war in . Since then, what has happened to the import and export between these two countries?
+The United States and China started the trade war in 2018. This project will inspect the trade war's impact on various aspects of these two countries and prove that it has caused a lose-lose situation.
+
 
 ## Project structure
 1. a timeline visualization of important events in the trade war. 
@@ -19,8 +20,8 @@ CPI (line chart)
 # Data source
 ## Documentation and explanation
 
-I am planning to use the open source data from the government website of the United States.
-credible sources like goverment websites
+I will use only credible data sources like websites of goverments, think tanks and economics research institutes. These sources will provide credible and open source data for trade-related topics.
+
 
 ## Link to the publicly-accessible datasets
 ### Trade in Goods with China

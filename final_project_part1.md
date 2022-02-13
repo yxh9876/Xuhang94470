@@ -6,8 +6,8 @@ The United States and China started the trade war in . Since then, what has happ
 ## Project structure
 1. a timeline visualization of important events in the trade war. 
 2. visualization of changes in the volume of bilateral trade between China and the United States
-3. a few visualization of macroeconomic indicators that help check whether the trade war has served the initial goals of President Donald Trump. Mr Trump's tariffs policy aims to encourage consumers to buy American products by making imported goods more expensive
-4. the trade war's effects on people's life in the two countries
+3. visualization of various macroeconomic indicators that help check whether the trade war has served the initial goals of President Donald Trump. Mr Trump's tariffs policy aims to encourage consumers to buy American products by making imported goods more expensive
+4. visualization of the trade war's effects on people's life in the two countries, such as CPI
 
 
 # Initial sketches

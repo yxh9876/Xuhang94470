@@ -21,7 +21,8 @@ After graduation, I'll be working at the headquater of a commercial bank called 
 
 ## Assignment 1
 
-## Assignment 2
-
+## Assignment 3 & 4
+[Assignment 3 & 4](https://yxh9876.github.io/Xuhang94470/assignment3&4)
 
 ## Final Project
+[Part 1](https://yxh9876.github.io/Xuhang94470/final_project_part1)

@@ -4,19 +4,13 @@
 The United States and China started the trade war in . Since then, what has happened to the import and export between these two countries?
 
 ## Project structure
-To check whether the trade war has served the initial goals of President Donald Trump. 1.Mr Trump's tariffs policy aims to encourage consumers to buy American products by making imported goods more expensive.
-
-How it affects the macroeconomic of the two countries.
-
-How it affects the bilateral trading.
-
-How it affects people's life in the two countries.
-
+1. a timeline visualization of important events in the trade war. 
+2. visualization of changes in the volume of bilateral trade between China and the United States
+3. a few visualization of macroeconomic indicators that help check whether the trade war has served the initial goals of President Donald Trump. Mr Trump's tariffs policy aims to encourage consumers to buy American products by making imported goods more expensive
+4. the trade war's effects on people's life in the two countries
 
 
 # Initial sketches
-
-When thinking about your topic, take time to think about what you want to say, to whom, and why. 
 
 Deficit (line chart with dotted line representing big political events)
 Import, export, deficit percentage (U.S.-China to all of U.S.) (stacked area, slope chart)

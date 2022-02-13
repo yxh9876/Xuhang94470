@@ -9,13 +9,20 @@ The United States and China started the trade war in 2018. This project will ins
 2. visualization of changes in the volume of bilateral trade between China and the United States
 3. visualization of various macroeconomic indicators that help check whether the trade war has served the initial goals of President Donald Trump. Mr Trump's tariffs policy aims to encourage consumers to buy American products by making imported goods more expensive
 4. visualization of the trade war's effects on people's life in the two countries, such as CPI
-
+5. my final conclusion of analysis (in words)
 
 # Initial sketches
+### Timeline
+![image](/IMG_1835.jpg)
 
-Deficit (line chart with dotted line representing big political events)
-Import, export, deficit percentage (U.S.-China to all of U.S.) (stacked area, slope chart)
-CPI (line chart)
+### Change in import, export and trade deficit
+![image](/IMG_1838.jpg)
+
+### Comparison of trade deficit with several countries
+![image](/IMG_1837.jpg)
+
+### Change in CPI
+![image](/IMG_1839.jpg)
 
 # Data source
 ## Documentation and explanation

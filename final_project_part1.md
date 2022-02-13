@@ -1,25 +1,27 @@
 # Outline
 ## High-level summary
-
+The United States and China started the trade war in . Since then, what has happened to the import and export between these two countries?
 
 ## Project structure
 
 # Initial sketches
 
 When thinking about your topic, take time to think about what you want to say, to whom, and why. 
-Ensuring access to data is really important.  Make sure you establish in Part I that you truly have access to the data you'll need in order to complete the project.  More on that later. 
 
+Deficit (line chart)
+Import, export, deficit percentage (U.S.-China to all of U.S.) (stacked area, slope chart)
+CPI (line chart)
 
 # Data source
 ## Documentation and explanation
 
 I am planning to use the open source data from the government website of the United States.
+Also, CPI
 
 ## Link to the publicly-accessible datasets
 Trade in Goods with China
 https://www.census.gov/foreign-trade/balance/c5700.html
 
-Import, export, deficit percentage (U.S.-China to all of U.S.)
 
 
 # Method and medium

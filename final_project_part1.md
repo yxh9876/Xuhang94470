@@ -1,10 +1,18 @@
-[Go Back to Portfolio Main Page](https://yxh9876.github.io/Xuhang94470/Xuhang94470)
 
 # Outline
 ## High-level summary
 The United States and China started the trade war in . Since then, what has happened to the import and export between these two countries?
 
 ## Project structure
+To check whether the trade war has served the initial goals of President Donald Trump. 1.Mr Trump's tariffs policy aims to encourage consumers to buy American products by making imported goods more expensive.
+
+How it affects the macroeconomic of the two countries.
+
+How it affects the bilateral trading.
+
+How it affects people's life in the two countries.
+
+
 
 # Initial sketches
 
@@ -44,3 +52,7 @@ Source: Peter G. Peterson Institute for International Economics
 
 # Method and medium
 I am planning to use Shorthand to create a web page that tells the story. I will also be using Tableau and other data visualization tools to create the visualization plots.
+
+
+
+[Go Back to Portfolio Main Page](https://yxh9876.github.io/Xuhang94470/Xuhang94470)

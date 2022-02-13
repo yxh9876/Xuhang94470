@@ -8,7 +8,7 @@ The United States and China started the trade war in . Since then, what has happ
 
 When thinking about your topic, take time to think about what you want to say, to whom, and why. 
 
-Deficit (line chart)
+Deficit (line chart with dotted line representing big political events)
 Import, export, deficit percentage (U.S.-China to all of U.S.) (stacked area, slope chart)
 CPI (line chart)
 

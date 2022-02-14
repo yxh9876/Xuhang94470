@@ -56,7 +56,7 @@ Source: Peter G. Peterson Institute for International Economics
 # Method and medium
 I am planning to use and only use Shorthand to create a web page that tells the story. I will also be using Tableau and other data visualization tools to create the visualization plots.
 
-In the created webpage, all the four sections that I mentioned in the project structure will be presented in sequence.
+In the created webpage, all the five sections that I mentioned in the project structure will be presented in sequence.
 
 
 

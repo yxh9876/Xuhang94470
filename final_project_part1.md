@@ -29,6 +29,7 @@ The United States and China started the trade war in 2018. This project will ins
 
 I will use only credible data sources like websites of goverments, think tanks and economics research institutes. These sources will provide credible and open source data for trade-related topics.
 
+In detail, the data source include United States Census Bureau, The U.S. Bureau of Labor Statistics, National Bureau of Statistics of China and Peter G. Peterson Institute for International Economics. I might also use data from websites like tradingeconomics.com and investing.com.
 
 ## Link to the publicly-accessible datasets
 ### Trade in Goods with China

@@ -26,3 +26,5 @@ After graduation, I'll be working at the headquater of a commercial bank called 
 
 ## Final Project
 [Part 1](https://yxh9876.github.io/Xuhang94470/final_project_part1)
+
+[Part 2](https://yxh9876.github.io/Xuhang94470/final_project_part2)

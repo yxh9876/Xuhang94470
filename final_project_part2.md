@@ -40,7 +40,7 @@ Red and green to represent escalations and de-escalations? But red is like China
 What about all the same color? Isn't that too monotonous?
 
 ## Findings from interviews
-### first interviewee
+
 | Question  | First Interviewee | Second Interviewee | Third Interviewee |
 | ------------- | ------------- | ------------- | ------------- |
 | Race | White | Asian | Asian |

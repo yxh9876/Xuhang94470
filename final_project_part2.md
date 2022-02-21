@@ -3,7 +3,7 @@
 # Wireframes
 
 
-<iframe src="https://preview.shorthand.com/Wva3qby3cfOxygqE" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>
+<iframe src="https://preview.shorthand.com/Wva3qby3cfOxygqE" width="100%" height="700" frameborder="0" scrolling="yes"></iframe>
 
 
 
@@ -63,8 +63,8 @@ Age: 23
 | Gender | Female | Male | Female |
 | Age | 24 | 26 | 23 |
 | What do you think of the overall structure and logic of this dataviz project?  | Overall it's really interesting. Maybe there are two many colors used across the various plots. And the colors are not consitent in different plots. In one plot you used green and in another you used orange, but they didn't make sense to me.  | I think it is very good overall. I really like it.  | Content Cell  |
-| What about the plots and graphs? What do you think of the dataviz?  | dbuwbdwq  |  For the CPI visualization, you might want to visualize the data even before the trade war started so that people can see what it was like before the trade war and have a contrast.  | Content Cell  |
-| Is there anything you find surprising or confusing? | I really like the slope chart that you made. It is my favorite part of the project. It not only shows the trend, but also tells us the fact that China is actually having more trade with the US than other countries, like our neighbors Canada and Mexico.  | In the timeline visualization, there are many different colors for the dates. Why is it so? What is it telling? | Content Cell  |
+| What about the plots and graphs? What do you think of the dataviz?  | I really like the slope chart that you made. It is my favorite part of the project. |  For the CPI visualization, you might want to visualize the data even before the trade war started so that people can see what it was like before the trade war and have a contrast.  | Content Cell  |
+| Is there anything you find surprising or confusing? | The slope chart is quite surprising. It's good because it not only shows the trend, but also tells us the fact that China is actually having more trade with the US than other countries, like our neighbors Canada and Mexico.  | In the timeline visualization, there are many different colors for the dates. Why is it so? What is it telling? | Content Cell  |
 | Is there anything you would change interms of looking, aesthetics?  | You might put the charts in the center of the webpage, not in the left side of the page.  | For the trade volume and trade deficit chart, you can make the captions like "Tariffs" and "Biden" larger in font or more words so that people don't have to move their mouse their to read. Some people might not realize that you can move your mouse onto the events to read. | Content Cell  |
 | What other suggestions do you have for me? | You have a lot of words in some of the pages. For someone like me who is not very familiar with this topic, you might highlight some of the key words in the paragraphs by changing their colors.  | You might consider adjust the trade volume and deficit part, it was a little hard to read at the first glance when you put two plots together like that.  | Content Cell  |
 

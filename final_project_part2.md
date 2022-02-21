@@ -318,7 +318,9 @@ So, I will reach out to some of the students at CMU, who are diversified in gend
 ## interview script
 First, I will introduce briefly the basics of my project and what the interview is about.
 
-"Hello. Thank you for accepting the interview. This is a dataviz project that I'm doing to persuade the US congressmen and general public that the US pause or even stop the US-Sino trade war because it is not working Then I will ask the following questions.
+"Hello. Thank you for accepting the interview. This is a dataviz project that I'm doing to persuade the US congressmen and general public that the US pause or even stop the US-Sino trade war because it is not working." 
+
+Then I will ask the following questions.
 
 1. What do you think of the overall structure and logic of this dataviz project?
 2. What about the plots and graphs? Is there anything that you don't understand?

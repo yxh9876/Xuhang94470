@@ -323,8 +323,9 @@ First, I will introduce briefly the basics of my project and what the interview 
 Then I will ask the following questions.
 
 1. What do you think of the overall structure and logic of this dataviz project?
-2. What about the plots and graphs? Is there anything that you don't understand?
+2. What about the plots and graphs? Is there anything you find surprising or confusing?
 3. Is there anything you would change interms of looking, aesthetics?
+4. What other suggestions do you have for me?
 
 Color of the dates in the timeline infoviz?
 

@@ -27,7 +27,7 @@ First, I will introduce briefly the basics of my project and what the interview 
 Then I will ask the following questions.
 
 1. What do you think of the overall structure and logic of this dataviz project?
-2. What about the plots and graphs? 
+2. What about the plots and graphs? What do you think of the dataviz?
 3. Is there anything you find surprising or confusing?
 4. Is there anything you would change interms of looking, aesthetics?
 5. What other suggestions do you have for me?
@@ -59,10 +59,11 @@ Age: 23
 
 | Question  | First Interviewee | Second Interviewee | Third Interviewee |
 | ------------- | ------------- | ------------- | ------------- |
+| Basic Information | Race: white\nGender: female\nAge: 23| sdadsdwq | ------------- |
 | What do you think of the overall structure and logic of this dataviz project?  | Content Cell  | Content Cell  | Content Cell  |
-| What do you think of the overall structure and logic of this dataviz project?  | Content Cell  | Content Cell  | Content Cell  |
+| What about the plots and graphs? What do you think of the dataviz?  | Maybe there are two many colors used across the various plots. And the colors are not consitent in different plots. In one plot you used green and in another you used orange, but they didn't make sense to me.  | In the timeline visualization, there are many different colors for the dates. Why is it so? What is it telling?  | Content Cell  |
 | Is there anything you find surprising or confusing? | Content Cell  | Content Cell  | Content Cell  |
-| Is there anything you would change interms of looking, aesthetics?  | Content Cell  | Content Cell  | Content Cell  |
+| Is there anything you would change interms of looking, aesthetics?  | Content Cell  | You might put the charts in the center of the webpage, not in the left side of the page. | Content Cell  |
 | What other suggestions do you have for me? | Content Cell  | Content Cell  | Content Cell  |
 
 

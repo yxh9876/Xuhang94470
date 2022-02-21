@@ -307,11 +307,19 @@
 ## Target Audience
 The target audience is mainly the congressman of the US and all the American people who are interested in this topic.
 
-On Feb 7, a bipartisan group of 41 senators urged President Joe Biden’s trade chief to create a more comprehensive process to exclude some Chinese imports from punitive tariffs that the lawmakers say have a negative impact on U.S. businesses. I am creating a shorthand webpage to tell the story that urges people pause or even stop the US-Sino trade war is reasonable. 
+On Feb 7, a bipartisan group of 41 senators urged President Joe Biden’s trade chief to create a more comprehensive process to exclude some Chinese imports from punitive tariffs that the lawmakers say have a negative impact on U.S. businesses. I am creating a shorthand webpage to tell the story that urges people pause or even stop the US-Sino trade war is reasonable.
+
 
 ## approach to identifying representative individuals to interview
+Unfortunately, I don't hava the connection to any congressman in the US. So, I will instead interview some CMU students, who are educated as congressmen. The interviewee should care for political topics like this and have the basic knowledge about it.
+
+So, I will reach out to some of the students at CMU, who are diversified in gender and age. 
 
 ## interview script
+First, I will introduce briefly the basics of my project and what the interview is about. Then I will ask the following questions.
+1.
+2.
+
 Color of the dates in the timeline infoviz?
 
 

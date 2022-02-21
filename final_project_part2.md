@@ -3,7 +3,7 @@
 # Wireframes
 
 
-<iframe src="https://preview.shorthand.com/Wva3qby3cfOxygqE"></iframe>
+<iframe src="https://preview.shorthand.com/Wva3qby3cfOxygqE" width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
 
 
 
@@ -63,8 +63,8 @@ Age: 23
 | Gender | Female | Male | Female |
 | Age | 24 | 26 | 23 |
 | What do you think of the overall structure and logic of this dataviz project?  | Content Cell  | Content Cell  | Content Cell  |
-| What about the plots and graphs? What do you think of the dataviz?  | Maybe there are two many colors used across the various plots. And the colors are not consitent in different plots. In one plot you used green and in another you used orange, but they didn't make sense to me.  | In the timeline visualization, there are many different colors for the dates. Why is it so? What is it telling?  | Content Cell  |
-| Is there anything you find surprising or confusing? | Content Cell  | Content Cell  | Content Cell  |
+| What about the plots and graphs? What do you think of the dataviz?  | Maybe there are two many colors used across the various plots. And the colors are not consitent in different plots. In one plot you used green and in another you used orange, but they didn't make sense to me.  |  For the CPI visualization, you might want to visualize the data even before the trade war started so that people can see what it was like before the trade war and have a contrast.  | Content Cell  |
+| Is there anything you find surprising or confusing? | Content Cell  | In the timeline visualization, there are many different colors for the dates. Why is it so? What is it telling? | Content Cell  |
 | Is there anything you would change interms of looking, aesthetics?  | Content Cell  | You might put the charts in the center of the webpage, not in the left side of the page. | Content Cell  |
 | What other suggestions do you have for me? | Content Cell  | Content Cell  | Content Cell  |
 

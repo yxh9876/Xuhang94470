@@ -59,7 +59,15 @@ Age: 23
 
 | Question  | First Interviewee | Second Interviewee | Third Interviewee |
 | ------------- | ------------- | ------------- | ------------- |
-| Basic Information | Race: white\nGender: female\nAge: 23| sdadsdwq | ------------- |
+| Basic Information | Race: white
+
+Gender: female
+
+Age: 23| Race: Asian
+Gender: male
+Age: 25 | Race: Asian
+Gender: female
+Age: 23 |
 | What do you think of the overall structure and logic of this dataviz project?  | Content Cell  | Content Cell  | Content Cell  |
 | What about the plots and graphs? What do you think of the dataviz?  | Maybe there are two many colors used across the various plots. And the colors are not consitent in different plots. In one plot you used green and in another you used orange, but they didn't make sense to me.  | In the timeline visualization, there are many different colors for the dates. Why is it so? What is it telling?  | Content Cell  |
 | Is there anything you find surprising or confusing? | Content Cell  | Content Cell  | Content Cell  |

@@ -72,5 +72,6 @@ Age: 23
 
 ## changes that I plan on implementing
 1. Split the the trade volume and deficit into two graphs. One is trade volume and the second is trade deficit.
+2. Put the slope chart at the first of them, because it is liked.
 
 [Go Back to Portfolio Main Page](https://yxh9876.github.io/Xuhang94470/Xuhang94470)

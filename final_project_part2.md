@@ -305,7 +305,9 @@
 
 # User research and interviews
 ## Target Audience
-On Feb 7, a bipartisan group of 41 senators urged President Joe Biden’s trade chief to create a more comprehensive process to exclude some Chinese imports from punitive tariffs that the lawmakers say have a negative impact on U.S. businesses. I am creating a shorthand webpage to tell the story that the urge to pause or even stop the US-Sino trade war is reasonable. The target audience is mainly the congressman of the US and any other American public interested in this topic.
+The target audience is mainly the congressman of the US and all the American people who are interested in this topic.
+
+On Feb 7, a bipartisan group of 41 senators urged President Joe Biden’s trade chief to create a more comprehensive process to exclude some Chinese imports from punitive tariffs that the lawmakers say have a negative impact on U.S. businesses. I am creating a shorthand webpage to tell the story that urges people pause or even stop the US-Sino trade war is reasonable. 
 
 ## approach to identifying representative individuals to interview
 

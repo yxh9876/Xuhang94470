@@ -3,7 +3,7 @@
 # Wireframes
 
 
-<iframe src="https://preview.shorthand.com/Wva3qby3cfOxygqE" width="100%" height="400" frameborder="0" scrolling="yes"></iframe>
+<iframe src="https://preview.shorthand.com/Wva3qby3cfOxygqE" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>
 
 
 

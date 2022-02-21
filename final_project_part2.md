@@ -2,6 +2,8 @@
  
 # Wireframes
 
+https://preview.shorthand.com/Wva3qby3cfOxygqE
+
 <!-- START SHORTHAND EMBED -->
 
       <script src=https://code.jquery.com/jquery-1.11.3.min.js></script>
@@ -313,7 +315,7 @@ On Feb 7, a bipartisan group of 41 senators urged President Joe Biden’s trade 
 ## approach to identifying representative individuals to interview
 Unfortunately, I don't hava the connection to any congressman in the US. So, I will instead interview some CMU students, who are educated as congressmen. The interviewee should care for political topics like this and have the basic knowledge about it.
 
-So, I will reach out to some of the students at CMU, who are diversified in gender and age. 
+So, I will reach out to some of the students at CMU, who are diversified in race, gender and age. 
 
 ## interview script
 First, I will introduce briefly the basics of my project and what the interview is about.
@@ -335,6 +337,22 @@ Red and green to represent escalations and de-escalations? But red is like China
 What about all the same color? Isn't that too monotonous?
 
 ## findings from interviews
+### first interviewee
+Race: white
+Gender: female
+Age: 23
+
+
+### second interviewee
+Race: Asian
+Gender: male
+Age: 25
+
+
+### third interviewee
+Race: Asian
+Gender: female
+Age: 23
 
 ## changes that I plan on implementing
 

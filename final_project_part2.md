@@ -55,7 +55,12 @@ What about all the same color? Isn't that too monotonous?
 
 
 ## changes that I plan on implementing
-1. Split the the trade volume and deficit into two graphs. One is trade volume and the second is trade deficit.
-2. Put the slope chart at the first of them, because it is liked.
+1. Center and resize the plots.
+2. Reorder the plots and make the slope chart at the first, because it is liked by many interviewees, which helped them understand the stories.
+3. Set a simple and consistent color tone across the project and stick to those few colors. Also, I should use meaningful colors.
+4. Have the conclusion also at the beginning of the project to help readers understand easier.
+5. Improve the timeline visualization, especially the color of the dates.
+6. Split the the trade volume and deficit into two graphs. One is trade volume and the second is trade deficit.
+7. Highlight the key words in paragraphs with yellow color.
 
 [Go Back to Portfolio Main Page](https://yxh9876.github.io/Xuhang94470/Xuhang94470)

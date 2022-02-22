@@ -63,4 +63,4 @@ What about all the same color? Isn't that too monotonous?
 6. Split the the trade volume and deficit into two graphs. One is trade volume and the second is trade deficit.
 7. Highlight the key words in paragraphs with yellow color.
 
-[Go Back to Portfolio Main Page](https://yxh9876.github.io/Xuhang94470/Xuhang94470)
+[Go Back to Portfolio Main Page](https://yxh9876.github.io/Xuhang94470/)

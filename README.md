@@ -19,7 +19,8 @@ After graduation, I'll be working at the headquater of a commercial bank called 
 ## demo
 <div class="flourish-embed flourish-chart" data-src="visualisation/8529844"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Assignment 1
+## Assignment: Visualizing government debt
+[Assignment: Visualizing government debt](https://yxh9876.github.io/Xuhang94470/dataviz2)
 
 ## Assignment 3 & 4
 [Assignment 3 & 4](https://yxh9876.github.io/Xuhang94470/assignment3&4)
@@ -28,3 +29,5 @@ After graduation, I'll be working at the headquater of a commercial bank called 
 [Part 1](https://yxh9876.github.io/Xuhang94470/final_project_part1)
 
 [Part 2](https://yxh9876.github.io/Xuhang94470/final_project_part2)
+
+[Part 3](https://yxh9876.github.io/Xuhang94470/final_project_part3)

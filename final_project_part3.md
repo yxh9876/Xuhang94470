@@ -13,3 +13,27 @@
 https://preview.shorthand.com/Wva3qby3cfOxygqE
 
 # All references for materials used
+Information Sources:
+
+1. The Economist Newspaper. (n.d.). New research counts the costs of the Sino-american trade war. The Economist. Retrieved February 21, 2022, from https://www.economist.com/finance-and-economics/2022/01/01/new-research-counts-the-costs-of-the-sino-american-trade-war
+
+2. Monteiro, A. (n.d.). Bloomberg.com. Retrieved February 21, 2022, from https://www.bloomberg.com/news/articles/2022-02-07/senators-ask-u-s-trade-chief-to-broaden-china-tariff-exclusions
+
+3. Timeline of the US-china trade war since July 2018. South China Morning Post. (2021, August 30). Retrieved February 21, 2022, from https://www.scmp.com/economy/china-economy/article/3146489/us-china-trade-war-timeline-key-dates-and-events-july-2018
+
+4. Trump's Trade War Timeline: An up-to-date guide. PIIE. (2022, February 14). Retrieved February 21, 2022, from https://www.piie.com/blogs/trade-investment-policy-watch/trump-trade-war-china-date-guide
+
+5. Wikimedia Foundation. (2022, February 6). China–united states trade war. Wikipedia. Retrieved February 21, 2022, from https://en.wikipedia.org/wiki/China%E2%80%93United_States_trade_war#Trump_administration's_complaints
+
+Image Sources:
+
+1. https://www.gettyimages.com/detail/photo/trade-war-between-usa-and-china-royalty-free-image/1181979944?adppopup=true
+
+2. https://www.gettyimages.com/detail/news-photo/republican-presidential-nominee-donald-trump-pauses-during-news-photo/599724318?adppopup=true
+
+3. https://www.gettyimages.com/detail/photo/paper-money-flying-out-of-mans-hand-royalty-free-image/94989168?adppopup=true
+
+4. https://www.gettyimages.com/detail/news-photo/supporters-of-us-president-donald-trump-hold-a-rally-news-photo/1230448940?adppopup=true
+
+
+[Go Back to Portfolio Main Page](https://yxh9876.github.io/Xuhang94470/)

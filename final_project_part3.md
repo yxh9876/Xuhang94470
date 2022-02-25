@@ -6,3 +6,4 @@
 5. Improve the timeline visualization, especially the color of the dates.
 6. Split the the trade volume and deficit into two graphs. One is trade volume and the second is trade deficit.
 7. Highlight the key words in paragraphs with red and golden color.
+8. In the line charts, make the fonts of events caption larger so that the viewers can see them more easily.

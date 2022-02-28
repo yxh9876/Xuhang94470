@@ -5,8 +5,9 @@
 4. Wrote my conclusion at the first page of the project as subtitle to help readers understand easier.
 5. Improve the timeline visualization, especially the color of the dates.
 6. Split the the trade volume and deficit into two graphs. One is trade volume and the second is trade deficit. Moreover, I changed the trade deficit plot from bar chart to line chart.
-7. Highlight the key words in paragraphs with red and golden color to emphasize the important words.
-8. In the line charts, make the fonts of events caption larger so that the viewers can see them more easily.
+7. In the shorthand page, highlight the key words in paragraphs with red and golden color to emphasize the important words.
+8. In the timeline visualization, highlight the key words in paragraphs with red.
+9. In the line charts, make the fonts of events caption larger so that the viewers can see them more easily.
 
 
 # Link to final data story 

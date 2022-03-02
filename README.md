@@ -20,6 +20,7 @@ After graduation, I'll be working at the headquater of a commercial bank called 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8529844"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Assignment: Visualizing government debt
+This is an assignment where I did a dataviz of government debt using Flourish.
 [Assignment: Visualizing government debt](https://yxh9876.github.io/Xuhang94470/dataviz2)
 
 ## Assignment 3 & 4

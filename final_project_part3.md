@@ -20,7 +20,7 @@ The design decisions that I made was to distinguish what really matters to the t
 
 To summarize, the most important thing that I learned during this project was to know your audience and attract them with your dataviz.
 # Link to final data story 
-https://preview.shorthand.com/Wva3qby3cfOxygqE
+https://carnegiemellon.shorthandstories.com/the-us-china-trade-war/index.html
 
 # All references for materials used
 Information Sources:

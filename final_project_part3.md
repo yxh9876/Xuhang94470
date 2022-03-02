@@ -18,7 +18,7 @@ On Feb 7, a bipartisan group of 41 senators urged President Joe Biden’s trade 
 
 The design decisions that I made was to distinguish what really matters to the target audience. Dataviz is about telling a story to the audience, so you have to know your audience and give them what they need/like and what you want them to know. In this project, the changes that I made was mostly to highlight what might intrigue the audience and also replace what might distract the audience. For example, I made the keywords in the paragraphs red and the most important conclusion golden to let the audience notice. In contrast, I deleted some unnecessary colors which didn't convey any meanings to avoid distracting the audience.
 
-To summarize, the most important thing that I learned during this project was to know your audience and attract them.
+To summarize, the most important thing that I learned during this project was to know your audience and attract them with your dataviz.
 # Link to final data story 
 https://preview.shorthand.com/Wva3qby3cfOxygqE
 

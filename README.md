@@ -23,9 +23,13 @@ After graduation, I'll be working at the headquater of a commercial bank called 
 [Assignment: Visualizing government debt](https://yxh9876.github.io/Xuhang94470/dataviz2)
 
 ## Assignment 3 & 4
+This is an assignment where I did a critique of a data visualization from online resource and redesigned it.
+
 [Assignment 3 & 4](https://yxh9876.github.io/Xuhang94470/assignment3&4)
 
 ## Final Project
+This is my final project that tells the story of how the US-China trade war is actually hurting the US and peolpe especially senators should take actions to mitigate the harm.
+
 [Part 1](https://yxh9876.github.io/Xuhang94470/final_project_part1)
 
 [Part 2](https://yxh9876.github.io/Xuhang94470/final_project_part2)
